@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning **Typescript**, **React-Native**, **PHP**, **C#**
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niebieskiczlowiek)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niebieskiczlowiek&show_icons=true&theme=cobalt)
