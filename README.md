@@ -7,5 +7,5 @@
 `Openai API chatbot assistant`
 
 ## Tools and languages  :wrench:
-![My Skills](https://skillicons.dev/icons?i=css,html,react,docker,figma,git,java,js,linux,notion,nodejs,php,py,ts,vscode,flutter&perline=8)
+[![My Skills](https://skillicons.dev/icons?i=css,html,react,docker,figma,git,java,js,linux,notion,nodejs,php,py,ts,vscode,flutter&perline=8)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
