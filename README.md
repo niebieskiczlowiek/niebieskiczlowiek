@@ -7,7 +7,7 @@
 ### Currently learning :books:
 `Java, Springboot, Dart, Flutter`
 ### I'm currently working on :bulb:
-`Openai API chatbot assistant`
+`OpenAi API chatbot assistant:` https://github.com/niebieskiczlowiek/EbookTelegramChatbot
   
 ## Tools and languages  :wrench:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
