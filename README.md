@@ -1,5 +1,5 @@
-<div align="center">
 # Hello, I'm Adam 
+<div align="center">
   
   ## What I'm up to :computer:
   ### Currently learning :books:
