@@ -1,10 +1,8 @@
 # Hello, I'm Adam 
 ## About me :speech_balloon:
-<p>
   - :mortar_board: I'm a young, programming high school student from Poland <flag-icon key="pl"></flag-icon>
   - :pencil2: I usually work on app development, frontend and backend, although I always enjoy trying and learning new things.
   - :envelope: You can reach me at: u19_adaczy_waw@technischools.com or adamkczyz306@gmail.com
-</p>
 ## What I'm up to :computer:
 ### Currently learning :books:
 `Java, Springboot, Dart, Flutter`
