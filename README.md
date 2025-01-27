@@ -12,4 +12,4 @@
   
 ## Tools and languages  :wrench:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-[![My Skills](https://skillicons.dev/icons?i=css,html,react,docker,figma,git,java,js,linux,notion,nodejs,php,py,ts,vscode,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,react,docker,figma,git,java,js,linux,notion,nodejs,php,py,ts,vscode,flutter,fastapi&perline=3)](https://skillicons.dev)
