@@ -5,7 +5,7 @@
   - :envelope: You can reach me at: u19_adaczy_waw@technischools.com or adamkczyz306@gmail.com
 ## What I'm up to :computer:
 ### Currently learning :books:
-`Java, Springboot, Dart, Flutter`
+`Java, Springboot, Python, FastAPI`
 ### I'm currently working on :bulb:
 `OpenAi API chatbot assistant:` https://github.com/niebieskiczlowiek/EbookTelegramChatbot
   
