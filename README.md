@@ -8,6 +8,7 @@
 `Java, Springboot, Python, FastAPI`
 ### I'm currently working on :bulb:
 `OpenAi API chatbot assistant:` https://github.com/niebieskiczlowiek/EbookTelegramChatbot
+`Backend mobile app with AI assistant`
   
 ## Tools and languages  :wrench:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
