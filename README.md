@@ -7,7 +7,7 @@
 ### Currently learning :books:
 `Java, Springboot, Python, FastAPI`
 ### I'm currently working on :bulb:
-`OpenAi API chatbot assistant:` https://github.com/niebieskiczlowiek/EbookTelegramChatbot
+`OpenAi API chatbot assistant:` https://github.com/niebieskiczlowiek/EbookTelegramChatbot <br />
 `Backend mobile app with AI assistant`
   
 ## Tools and languages  :wrench:
